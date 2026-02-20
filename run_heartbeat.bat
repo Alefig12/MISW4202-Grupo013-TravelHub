@@ -1,0 +1,3 @@
+@echo off
+echo Starting Heartbeat Monitor...
+python -m heartbeat_monitor.monitor

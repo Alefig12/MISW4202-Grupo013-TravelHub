@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+celery
+redis
+marshmallow
+marshmallow-sqlalchemy
+Faker
+SQLAlchemy
+Werkzeug

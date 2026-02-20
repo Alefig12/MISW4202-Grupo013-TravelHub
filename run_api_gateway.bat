@@ -1,0 +1,3 @@
+@echo off
+echo Starting API Gateway on port 5000...
+flask run --port=5000
