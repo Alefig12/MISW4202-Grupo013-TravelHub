@@ -67,7 +67,7 @@ docker run -d --name redis -p 6379:6379 redis
 ## Instalación
 
 ```bash
-cd "C:\Users\KATANA\Documents\Master\Ciclo 3\Arquitecturas agiles\experimento_2"
+cd ".\Experimento_2"
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
